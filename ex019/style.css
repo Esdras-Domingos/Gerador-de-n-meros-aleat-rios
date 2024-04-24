@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(121, 121, 252);
+    font: normal 15pt arial;
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+}
+
+section #txtnum{
+    margin-top: 20px;       
+    outline: none;
+}
+
+#res{
+    margin-top: 30px;
+}
+
+#orde{
+    display: block;
+    margin-top: 20px;
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
